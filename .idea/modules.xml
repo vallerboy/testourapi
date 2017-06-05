@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testapi.iml" filepath="$PROJECT_DIR$/.idea/modules/testapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testapi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testapi_main.iml" group="testapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testapi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testapi_test.iml" group="testapi" />
+    </modules>
+  </component>
+</project>
